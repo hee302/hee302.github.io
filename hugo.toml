@@ -1,7 +1,7 @@
 baseURL = 'https://hee302.github.io/'
 languageCode = 'co-kr'
 title = 'hee302 Tech blog'
-theme = 'papermod'
+theme = 'PaperMod'
 
 [params]
   ShowReadingTime = true
