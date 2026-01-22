@@ -7,3 +7,29 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    name = "Papers"
+    url = "/categories/paper-review/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Work"
+    url = "/categories/work/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Study"
+    url = "/categories/study/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Events"
+    url = "/categories/event-review/"
+    weight = 40
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 50
