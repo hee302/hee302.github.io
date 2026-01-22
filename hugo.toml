@@ -1,0 +1,9 @@
+baseURL = 'https://hee302.github.io/'
+languageCode = 'co-kr'
+title = 'hee302 Tech blog'
+theme = 'papermod'
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
